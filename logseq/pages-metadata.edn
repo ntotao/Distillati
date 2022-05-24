@@ -24,7 +24,7 @@
   :block/updated-at 1653403023288}
  {:block/name "24.05.2022",
   :block/created-at 1653402396610,
-  :block/updated-at 1653402396610}
+  :block/updated-at 1653421876406}
  {:block/name "3",
   :block/created-at 1653294818881,
   :block/updated-at 1653294818881}
@@ -100,6 +100,9 @@
  {:block/name "designer",
   :block/created-at 1653403471174,
   :block/updated-at 1653403471174}
+ {:block/name "diretta",
+  :block/created-at 1653421863746,
+  :block/updated-at 1653421863746}
  {:block/name "distillati",
   :block/created-at 1653295137792,
   :block/updated-at 1653295137792}
@@ -136,6 +139,9 @@
  {:block/name "gelsomino",
   :block/created-at 1653403210546,
   :block/updated-at 1653403210546}
+ {:block/name "grafo",
+  :block/created-at 1653421870921,
+  :block/updated-at 1653421870921}
  {:block/name "haiti",
   :block/created-at 1653310044744,
   :block/updated-at 1653310044744}
@@ -145,6 +151,9 @@
  {:block/name "human centered",
   :block/created-at 1653403471172,
   :block/updated-at 1653403471172}
+ {:block/name "idee",
+  :block/created-at 1653421876403,
+  :block/updated-at 1653421876403}
  {:block/name "idrogel",
   :block/created-at 1653403169473,
   :block/updated-at 1653403169473}
