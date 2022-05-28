@@ -1,6 +1,6 @@
 title:: Puntata_2
 
-- Ho letto di un [[paper]] dove sono riusciti a creare una batteria alimentata da microorganismi fotosensibili , che genera elettricità quanto basta per alimentare un piccolo [[microcontroller]] per la Internet of Things . #elettronica
+- Ho letto di un [[paper]] dove sono riusciti a creare una [[batteria]] alimentata da [[microorganismi fotosensibili]] , che genera elettricità quanto basta per alimentare un piccolo [[microcontroller]] per la Internet of Things . #elettronica
 - Ho scoperto che c'è' una cosa simile all' unione europea nella zona subsahariana dell' [[Africa]] : il [[SADAC]] è un mercato emergente nuovissimo con fame di tecnologia e prodotti. Ho conosciuto una ragazza che lavora per importare prodotti per la produzione di cibo lì. #economia
 - esistono delle api solitarie chiamate [[osmie]] o [[tagliafoglie]] , non fanno [[miele]] , non hanno una casa ma sono fortissime impollinatrici! #natura
 - Ho scoperto un [[pane Turco]] , a forma di fiore che assomiglia alla nostra rosetta . #cibo

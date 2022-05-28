@@ -1,6 +1,6 @@
 title:: Puntata_1
 
-- Ho imparato la necessità, soprattutto per i [[designer]], di creare un [[manifesto]] personale per costruire una visione di se e della propria crescita. Più in generale, che il [[design]] dovrebbe essere uno strumento per disegnare il futuro a tutto tondo, non [[human centered]] ma [[planet centered]] . #design
+- Ho imparato la necessità, soprattutto per i [[designer]], di creare un [[manifesto]] personale per costruire una visione di se e della propria crescita. Più in generale, che il [[design]] dovrebbe essere uno strumento per disegnare il futuro a tutto tondo, non [[human centered design]] ma [[planet centered]] . #design
 - Ho scoperto la differenza tra [[output]] ed [[outcome]] . #consapevolezza
 	- Un [[output]] è un risultato concreto e azionabile,
 	- un [[outcome]] è un risultato più ampio che riassume princìpi e concetti che lasciano più spazio ad iterazioni seguenti.
