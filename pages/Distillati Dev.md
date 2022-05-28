@@ -1,3 +1,7 @@
+tipo:: log
+
 - ### Distillati fase 1
 	- {{embed ((629249dd-1d85-46ce-b95a-8bbfbb11b626))}}
-	- [[canale Telegram]] con chat audio quotidiane.
+	- [[Distillati]] è un [[canale Telegram]] con chat audio quotidiane.
+- ### Distillati fase 2
+-
