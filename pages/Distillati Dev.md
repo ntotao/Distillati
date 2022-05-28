@@ -3,7 +3,8 @@ tag:: [[log]] [[Distillati]]
 - ### Distillati fase 1
 	- {{embed ((629249dd-1d85-46ce-b95a-8bbfbb11b626))}}
 	- [[Distillati]] è un [[canale Telegram]] con chat audio quotidiane.
-- ### Distillati fase 2
+- ### D
+- ### Distillati fase 3
 	- Iterazione da chat audio a chat testuale con uso di un [[Bot Telegram]]
 		- Funzioni del bot:
 			- Manda un reminder giornaliero per ricordare di mandare cosa si è imparato oggi
@@ -12,4 +13,4 @@ tag:: [[log]] [[Distillati]]
 				- LATER trigger aggiunta blocco in daily journal in [[logseq]]
 		- Una volta scaduto il tempo (00:00) si avvia iter di aggregazione nuovi blocchi nel daily journal
 			- LATER GET blocks from daily journal
-		- POST
+		- POST in [[canale Telegram]] [[Distillati]] il recap delle scoperte del giorno [[Plin personali]] [[Plin]]
