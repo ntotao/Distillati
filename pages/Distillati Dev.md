@@ -5,9 +5,9 @@ tag:: [[log]] [[Distillati]]
 	- [[Distillati]] è un [[canale Telegram]] con chat audio quotidiane.
 - ### Distillati fase 2
 	- Costruzione di un sito che pubblica il grafo di [[logseq]] su sito http://www.distillati.space
-		- Tool per pubblicare automaticamente un grafo [[logseq]] salvato in [[github]] su un sito target usando ((629249dd-d351-47e9-9dca-e8fb0d625550))
-		- ((629249dd-158e-4c2b-a3ec-852836de6915))
-	-
+		- [[Logseq Publish]] Tool per pubblicare automaticamente un grafo [[logseq]] salvato in [[github]] su un sito target usando [[github-pages]] ((629249dd-d351-47e9-9dca-e8fb0d625550))
+			- Esempio di working website basato su action logseq publish ((629249dd-158e-4c2b-a3ec-852836de6915))
+		- LATER
 - ### Distillati fase 3
 	- Iterazione da chat audio a chat testuale con uso di un [[Bot Telegram]]
 		- Funzioni del bot:
