@@ -37,7 +37,7 @@ jobs:
           # Logseq version to use. Note, not all version are supported. Use "master" if you are not sure what to put here
           version: master # default is master
           # Whether or not to generate trace file for debugging.  
-          trace: true # optional, default is true
+          trace: false # optional, default is true
       - name: add a nojekyll file # to make sure asset paths are correctly identified
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
       - name: Deploy 🚀
