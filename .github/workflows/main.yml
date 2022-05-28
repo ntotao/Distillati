@@ -31,7 +31,6 @@ jobs:
         with:
           #dest: www # default is www
           version: master
-          src: ``
           # Logseq version to use. Note, not all version are supported. Use "master" if you are not sure what to put here
       - name: add a nojekyll file # to make sure asset paths are correctly identified
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
