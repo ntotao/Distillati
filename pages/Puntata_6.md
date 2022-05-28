@@ -1,7 +1,5 @@
 title:: Puntata_6
 
-- ((629247dc-292e-4baf-81a8-86ecba462e2a))
-- ((629247dc-b060-4cb9-a91d-3a523e80ebea))
 - #modello #innovazione ho scoperto che esistono due tipi di approcci all' [[open innovation]] : [[inbound]] e [[outbound]]
 	- Outbound: ovvero prendi conoscenza o informazioni dall'interno e le fai "uscire" (es. Vendita brevetti o [[MVP]] per test)
 	- Inbound: prendi informazioni e conoscenza dall'esterno e provi ad internalizzare
