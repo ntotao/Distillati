@@ -10,4 +10,6 @@ tag:: [[log]] [[Distillati]]
 			- Richiede di rivedere il testo in caso ci fossero dei tag da aggiungere per indicizzazione
 			- Una volta confermato il messaggio da utente, invia a repository
 				- LATER trigger aggiunta blocco in daily journal in [[logseq]]
-		- Una volta scaduto il tempo
+		- Una volta scaduto il tempo (00:00) si avvia iter di aggregazione nuovi blocchi nel daily journal
+			- LATER GET blocks from daily journal
+		- POST
