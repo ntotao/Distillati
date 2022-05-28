@@ -31,7 +31,7 @@ jobs:
         uses: pengx17/logseq-publish@v0.1
         with:
           # export source
-          src: ntotao/Distillati@main # default is 
+          src: ntotao/Distillati # default is 
           # export destination
           dest: www # default is www
           # Logseq version to use. Note, not all version are supported. Use "master" if you are not sure what to put here
