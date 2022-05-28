@@ -28,15 +28,10 @@ jobs:
       - name: Logseq Publish 🚩
         # You may pin to the exact commit or the version.
         # uses: pengx17/logseq-publish@ba73f51ba89dc54727bddf05d976d65e5cdef376
-        uses: pengx17/logseq-publish@v0.1
+        uses: pengx17/logseq-publish@main
         with:
-          # export source
-          src: ntotao/Distillati # default is 
-          # export destination
           dest: www # default is www
           # Logseq version to use. Note, not all version are supported. Use "master" if you are not sure what to put here
-          version: master # default is master
-          # Whether or not to generate trace file for debugging.  
       - name: add a nojekyll file # to make sure asset paths are correctly identified
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
       - name: Deploy 🚀
