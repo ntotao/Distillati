@@ -1,51 +1,42 @@
 [{:block/name "1947",
   :block/created-at 1653754044356,
   :block/updated-at 1653754044356}
- {:block/name "2",
-  :block/created-at 1653294770914,
-  :block/updated-at 1653294770914}
- {:block/name "28.05.2022",
-  :block/created-at 1653754311359,
-  :block/updated-at 1653754311359}
- {:block/name "3",
-  :block/created-at 1653294818881,
-  :block/updated-at 1653294818881}
- {:block/name "4",
-  :block/created-at 1653294839072,
-  :block/updated-at 1653294839072}
- {:block/name "5",
-  :block/created-at 1653295079320,
-  :block/updated-at 1653295079320}
+ {:block/name "629249dd-1d85-46ce-b95a-8bbfbb11b626",
+  :block/created-at 1653755244017,
+  :block/updated-at 1653755244017}
  {:block/name "a",
   :block/created-at 1653294681793,
   :block/updated-at 1653294681793}
- {:block/name "abiti da uomo",
-  :block/created-at 1653403132689,
-  :block/updated-at 1653403132689}
  {:block/name "afidi",
-  :block/created-at 1653403406971,
-  :block/updated-at 1653403406971}
+  :block/created-at 1653755022976,
+  :block/updated-at 1653755022976}
+ {:block/name "africa",
+  :block/created-at 1653754896205,
+  :block/updated-at 1653754896205}
  {:block/name "aggiornamento_1",
   :block/created-at 1653753776424,
-  :block/updated-at 1653753776424}
+  :block/updated-at 1653754475442}
  {:block/name "alga marina nori",
   :block/created-at 1653403329284,
   :block/updated-at 1653403329284}
  {:block/name "algoritmo",
   :block/created-at 1653403013939,
   :block/updated-at 1653403013939}
- {:block/name "ansia",
-  :block/created-at 1653403418639,
-  :block/updated-at 1653403418639}
  {:block/name "b",
   :block/created-at 1653294681793,
   :block/updated-at 1653294681793}
+ {:block/name "bari",
+  :block/created-at 1653754988269,
+  :block/updated-at 1653754988269}
  {:block/name "batteria",
-  :block/created-at 1653403342013,
-  :block/updated-at 1653403342013}
+  :block/created-at 1653755038544,
+  :block/updated-at 1653755038544}
  {:block/name "birra",
-  :block/created-at 1653297321522,
-  :block/updated-at 1653297321522}
+  :block/created-at 1653754988269,
+  :block/updated-at 1653754988269}
+ {:block/name "bot telegram",
+  :block/created-at 1653755429721,
+  :block/updated-at 1653755429721}
  {:block/name "c",
   :block/created-at 1653294681793,
   :block/updated-at 1653294681793}
@@ -87,7 +78,10 @@
   :block/updated-at 1653421863746}
  {:block/name "distillati",
   :block/created-at 1653295137792,
-  :block/updated-at 1653295137792}
+  :block/updated-at 1653754794389}
+ {:block/name "distillati dev",
+  :block/created-at 1653755195833,
+  :block/updated-at 1653755934440}
  {:block/name "distillazione",
   :block/created-at 1653403227654,
   :block/updated-at 1653403227654}
@@ -100,21 +94,12 @@
  {:block/name "economia",
   :block/created-at 1653294770907,
   :block/updated-at 1653294770907}
- {:block/name "elettricità",
-  :block/created-at 1653403350578,
-  :block/updated-at 1653403350578}
  {:block/name "elettronica",
   :block/created-at 1653294770903,
   :block/updated-at 1653294770903}
- {:block/name "export agricolo",
-  :block/created-at 1653403117536,
-  :block/updated-at 1653403117536}
  {:block/name "favorites",
   :block/created-at 1653294681793,
   :block/updated-at 1653294681793}
- {:block/name "formiche",
-  :block/created-at 1653403406972,
-  :block/updated-at 1653403406972}
  {:block/name "fri, 20-05-2022",
   :block/created-at 1653754116770,
   :block/updated-at 1653754131902}
@@ -127,6 +112,9 @@
  {:block/name "github",
   :block/created-at 1653744095407,
   :block/updated-at 1653744095407}
+ {:block/name "github-pages",
+  :block/created-at 1653755824638,
+  :block/updated-at 1653755824638}
  {:block/name "grafo",
   :block/created-at 1653421870921,
   :block/updated-at 1653421870921}
@@ -139,6 +127,9 @@
  {:block/name "human centered",
   :block/created-at 1653403471172,
   :block/updated-at 1653403471172}
+ {:block/name "human centered design",
+  :block/created-at 1653755092900,
+  :block/updated-at 1653755092900}
  {:block/name "idee",
   :block/created-at 1653421876403,
   :block/updated-at 1653421876403}
@@ -160,24 +151,36 @@
  {:block/name "insight",
   :block/created-at 1653403547180,
   :block/updated-at 1653403547180}
- {:block/name "internet of things",
-  :block/created-at 1653403355332,
-  :block/updated-at 1653403355332}
  {:block/name "la repubblica",
-  :block/created-at 1653403411649,
-  :block/updated-at 1653403411649}
+  :block/created-at 1653754988268,
+  :block/updated-at 1653754988268}
  {:block/name "later",
   :block/created-at 1653294681793,
   :block/updated-at 1653294681793}
+ {:block/name "log",
+  :block/created-at 1653755345996,
+  :block/updated-at 1653755345996}
+ {:block/name "logseq",
+  :block/created-at 1653755546910,
+  :block/updated-at 1653755546910}
+ {:block/name "logseq publish",
+  :block/created-at 1653755856871,
+  :block/updated-at 1653755856871}
  {:block/name "manifesto",
   :block/created-at 1653403471173,
   :block/updated-at 1653403471173}
  {:block/name "messaggio fissato",
   :block/created-at 1653754173301,
   :block/updated-at 1653754173301}
+ {:block/name "microcontroller",
+  :block/created-at 1653754969057,
+  :block/updated-at 1653754969057}
  {:block/name "microorganismi fotosensibili",
-  :block/created-at 1653403342012,
-  :block/updated-at 1653403342012}
+  :block/created-at 1653755038542,
+  :block/updated-at 1653755038542}
+ {:block/name "miele",
+  :block/created-at 1653754936747,
+  :block/updated-at 1653754936747}
  {:block/name "moda",
   :block/created-at 1653295079315,
   :block/updated-at 1653295079315}
@@ -199,9 +202,6 @@
  {:block/name "natura",
   :block/created-at 1653294770906,
   :block/updated-at 1653294770906}
- {:block/name "new page: puntata 2",
-  :block/created-at 1653753888416,
-  :block/updated-at 1653753888416}
  {:block/name "nft",
   :block/created-at 1653403630807,
   :block/updated-at 1653403630807}
@@ -217,6 +217,9 @@
  {:block/name "open innovation",
   :block/created-at 1653402905846,
   :block/updated-at 1653402905846}
+ {:block/name "osmie",
+  :block/created-at 1653754909135,
+  :block/updated-at 1653754922450}
  {:block/name "outbound",
   :block/created-at 1653402916646,
   :block/updated-at 1653402916646}
@@ -226,15 +229,15 @@
  {:block/name "output",
   :block/created-at 1653403479177,
   :block/updated-at 1653403479177}
- {:block/name "pane",
-  :block/created-at 1653403387049,
-  :block/updated-at 1653403387049}
+ {:block/name "pane turco",
+  :block/created-at 1653755007026,
+  :block/updated-at 1653755007026}
  {:block/name "paper",
-  :block/created-at 1653403342014,
-  :block/updated-at 1653403342014}
+  :block/created-at 1653754969058,
+  :block/updated-at 1653754969058}
  {:block/name "parma",
-  :block/created-at 1653753917878,
-  :block/updated-at 1653753917878}
+  :block/created-at 1653755130333,
+  :block/updated-at 1653755130333}
  {:block/name "pelle umana",
   :block/created-at 1653403192861,
   :block/updated-at 1653403192861}
@@ -247,63 +250,63 @@
  {:block/name "planet centered",
   :block/created-at 1653403471171,
   :block/updated-at 1653403471171}
+ {:block/name "planet centered design",
+  :block/created-at 1653755099516,
+  :block/updated-at 1653755099516}
+ {:block/name "plin",
+  :block/created-at 1653754475438,
+  :block/updated-at 1653754475438}
+ {:block/name "plin personali",
+  :block/created-at 1653754475440,
+  :block/updated-at 1653754475440}
  {:block/name "protesi",
   :block/created-at 1653403192859,
   :block/updated-at 1653403192859}
  {:block/name "puntata_1",
   :block/created-at 1653754326277,
-  :block/updated-at 1653754326277}
+  :block/updated-at 1653755099518}
  {:block/name "puntata_2",
   :block/created-at 1653753900923,
-  :block/updated-at 1653753900923}
+  :block/updated-at 1653755135448}
  {:block/name "puntata_3",
   :block/created-at 1653754131902,
-  :block/updated-at 1653754131902}
+  :block/updated-at 1653754365734}
+ {:block/name "puntata_4",
+  :block/created-at 1653754640972,
+  :block/updated-at 1653754649124}
  {:block/name "puntata_5",
   :block/created-at 1653753971399,
-  :block/updated-at 1653753971399}
+  :block/updated-at 1653754407268}
  {:block/name "puntata_6",
   :block/created-at 1653753790845,
-  :block/updated-at 1653754284093}
+  :block/updated-at 1653754763796}
  {:block/name "readme",
   :block/created-at 1653750820695,
   :block/updated-at 1653750820695}
  {:block/name "reggio emilia",
-  :block/created-at 1653753917876,
-  :block/updated-at 1653753917876}
+  :block/created-at 1653755130332,
+  :block/updated-at 1653755130332}
  {:block/name "riso in bianco",
   :block/created-at 1653403280524,
   :block/updated-at 1653403280524}
- {:block/name "rosetta",
-  :block/created-at 1653403387048,
-  :block/updated-at 1653403387048}
  {:block/name "sadac",
-  :block/created-at 1653297308512,
-  :block/updated-at 1653297308512}
+  :block/created-at 1653754890503,
+  :block/updated-at 1653754890503}
  {:block/name "sale",
   :block/created-at 1653403329282,
   :block/updated-at 1653403329282}
- {:block/name "sas",
-  :block/created-at 1653403055832,
-  :block/updated-at 1653403055832}
  {:block/name "sat, 21-05-2022",
   :block/created-at 1653754224248,
-  :block/updated-at 1653754227445}
+  :block/updated-at 1653754640972}
  {:block/name "sat, 28-05-2022",
   :block/created-at 1653753814860,
-  :block/updated-at 1653753814860}
+  :block/updated-at 1653755195835}
  {:block/name "scimmie",
   :block/created-at 1653403264563,
   :block/updated-at 1653403264563}
- {:block/name "scontrini",
-  :block/created-at 1653403055834,
-  :block/updated-at 1653403055834}
  {:block/name "semi di sesamo",
   :block/created-at 1653403329285,
   :block/updated-at 1653403329285}
- {:block/name "società di persone",
-  :block/created-at 1653403055833,
-  :block/updated-at 1653403055833}
  {:block/name "srl",
   :block/created-at 1653403055831,
   :block/updated-at 1653403055831}
@@ -313,21 +316,21 @@
  {:block/name "sun, 22-05-2022",
   :block/created-at 1653753959900,
   :block/updated-at 1653754044360}
+ {:block/name "tagliafoglie",
+  :block/created-at 1653754922449,
+  :block/updated-at 1653754922449}
  {:block/name "tartaruga",
   :block/created-at 1653403135570,
   :block/updated-at 1653403135570}
  {:block/name "thu, 19-05-2022",
   :block/created-at 1653753857973,
-  :block/updated-at 1653753917879}
+  :block/updated-at 1653755120379}
  {:block/name "todo",
   :block/created-at 1653294681793,
   :block/updated-at 1653294681793}
  {:block/name "tue, 24-05-2022",
   :block/created-at 1653753820142,
   :block/updated-at 1653753820142}
- {:block/name "unione europea",
-  :block/created-at 1653403362440,
-  :block/updated-at 1653403362440}
  {:block/name "uva",
   :block/created-at 1653403154033,
   :block/updated-at 1653403154033}
@@ -335,8 +338,8 @@
   :block/created-at 1653403239080,
   :block/updated-at 1653403239080}
  {:block/name "via del pratello - bologna (con birretta)",
-  :block/created-at 1653753917879,
-  :block/updated-at 1653753917879}
+  :block/created-at 1653755130334,
+  :block/updated-at 1653755130334}
  {:block/name "wait",
   :block/created-at 1653294681793,
   :block/updated-at 1653294681793}
@@ -349,9 +352,6 @@
  {:block/name "zinco",
   :block/created-at 1653403169472,
   :block/updated-at 1653403169472}
- {:block/name "zona subsahariana",
-  :block/created-at 1653403368400,
-  :block/updated-at 1653403368400}
  {:block/name "zucchero",
   :block/created-at 1653403329283, 
   :block/updated-at 1653403329283}]
