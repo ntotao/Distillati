@@ -3,7 +3,10 @@ tag:: [[log]] [[Distillati]]
 - ### Distillati fase 1
 	- {{embed ((629249dd-1d85-46ce-b95a-8bbfbb11b626))}}
 	- [[Distillati]] è un [[canale Telegram]] con chat audio quotidiane.
-- ### D
+- ### Distillati fase 2
+	- Costruzione di un sito che pubblica il grafo di [[logseq]] su sito http://www.distillati.space
+	- ((629249dd-d351-47e9-9dca-e8fb0d625550))
+	-
 - ### Distillati fase 3
 	- Iterazione da chat audio a chat testuale con uso di un [[Bot Telegram]]
 		- Funzioni del bot:
